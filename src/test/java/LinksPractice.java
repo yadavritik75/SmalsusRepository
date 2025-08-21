@@ -42,6 +42,8 @@ public class LinksPractice {
             System.out.println(driver.getTitle());
         }
         
+        System.out.println("Hi HI HI Hi Hi ");
+        
         System.out.println("Heloo checking git 1");
     	System.out.println("Heloo checking git 2");
     	System.out.println("Heloo checking git 3");
