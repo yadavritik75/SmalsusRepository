@@ -41,6 +41,12 @@ public class LinksPractice {
             driver.switchTo().window(it.next());
             System.out.println(driver.getTitle());
         }
+        
+        System.out.println("Heloo checking git 1");
+    	System.out.println("Heloo checking git 2");
+    	System.out.println("Heloo checking git 3");
+    	System.out.println("Heloo checking git 4");
+    	
 
         driver.quit();
     }
